@@ -53,9 +53,6 @@ Create a bar chart showcasing the bottom 5 worst-selling pizzas based on the Rev
 #### Project Overview:
  This project involves creating a data analyst portfolio using SQL and Power BI. It focuses on analyzing and visualizing pizza sales data to extract meaningful insights and trends.
 
-#### Purpose and Sustainability: 
-The project aims to demonstrate robust data analysis skills. While it doesn't directly address sustainability, the methodologies used can be applied to sustainable environment initiatives, like analyzing environmental data for impactful decision-making.
-
 #### Metrics/Impact: 
 Key metrics include total revenue, average order value, total pizzas sold, and customer preferences.
 
