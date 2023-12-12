@@ -1,5 +1,12 @@
 # Sales Insight-Dashboard
 
+HOME DASHBOARD SNAP - 
+![Home dashboard](https://github.com/piyushsharma7757/Sales-Insight-Power-BI-/assets/109236689/da001b6f-0322-4609-99e6-6c00d545d74f)
+
+
+BEST/WORST SELLERS DASHBOARD SNAP - 
+![Best-Worst sellers dashboard](https://github.com/piyushsharma7757/Sales-Insight-Power-BI-/assets/109236689/92f5f68d-c7a6-4585-93da-2f51d839d81c)
+
 ## Problem Statement
 
 #### KPI's REQUIREMENT
@@ -102,11 +109,6 @@ The project highlighted the importance of data accuracy, effective visualization
 
 - Business Decisions: Use of interactive dashboards for informed decision-making by business owners.
 
-HOME DASHBOARD SNAP - 
-![Home dashboard](https://github.com/piyushsharma7757/Sales-Insight-Power-BI-/assets/109236689/da001b6f-0322-4609-99e6-6c00d545d74f)
 
-
-BEST/WORST SELLERS DASHBOARD SNAP - 
-![Best-Worst sellers dashboard](https://github.com/piyushsharma7757/Sales-Insight-Power-BI-/assets/109236689/92f5f68d-c7a6-4585-93da-2f51d839d81c)
 
 
